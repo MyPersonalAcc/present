@@ -1,9 +1,10 @@
 ### Presentation
-##(Slide - what is React?)
+###(Slide - what is React?)
+
 What Is React?
 React is a declarative, efficient, and flexible JavaScript library created by Facebook for building user interfaces.
 It lets you compose complex UIs from small and isolated pieces of code called “components”.
-##(Slide - History)
+###(Slide - History)
 React was created by Jordan Walke, a software engineer at Facebook in 2011 and is one of the most widely used JavaScript frameworks.
 He was influenced by XHP, an HTML component framework for PHP. 
 It was first deployed on Facebook's newsfeed in 2011 and later on Instagram.com in 2012. 
